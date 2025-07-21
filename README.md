@@ -48,8 +48,6 @@ Wildlife Simulator features intelligent animal behaviors using FSM (Finite State
 
 * 📍 Proximity to other animals
 * ⚡ Current stamina, hunger, and thirst levels
-* 🌙 Time of day or 🌧️ weather conditions (e.g., predators more active at night)
-* 🎲 Random variation for realism
 
 ---
 
