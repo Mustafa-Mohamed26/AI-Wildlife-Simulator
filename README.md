@@ -71,7 +71,7 @@ Wildlife Simulator features intelligent animal behaviors using FSM (Finite State
 
 ## 🔗 Additional Links
 
-* 💻 *((https://github.com/Mustafa-Mohamed26/AI-Wildlife-Simulator/new/main?filename=README.md))* Link to GitHub repository with project code
+* 💻 *((https://github.com/Mustafa-Mohamed26/AI-Wildlife-Simulator))* Link to GitHub repository with project code
 * 📦 *(Coming Soon)* Download executable build for Windows
 
 ---
