@@ -16,7 +16,7 @@
 * 🐾 Choose from different wild animals (e.g., deer, wolf, rabbit, bear)
 * 🧠 Survive using instincts like hunting, hiding, and exploring
 * 🌊 Interact with dynamic elements like water sources, prey, predators, and shelters
-* 🌧️ Environmental challenges: Day-night cycle, weather changes, hunger, thirst, and stamina management
+* 🌧️ Environmental challenges: hunger, thirst, and stamina management
 * 🧭 Navigate terrain using Unity's NavMesh system for realistic movement
 
 ---
